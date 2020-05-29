@@ -2,7 +2,7 @@
 
 def snake_it_up(string)
   if string[0] == "s"
-    ten_s = 10 * "s"
+    ten_s = "ssssssssss"
     puts "#{ten_s}surprise"
   else
     string
